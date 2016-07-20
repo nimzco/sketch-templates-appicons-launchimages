@@ -9,13 +9,13 @@ I disposed the artboards in order to know where to drop them in Xcode.
 
 Because I had a hard time figuring out how those image sizes works.
 
-## LaunchImage
-
-![LaunchImage](https://github.com/nimzco/sketch-templates-appicons-launchimages/raw/master/img/LaunchImage.png "LaunchImage")
-
 ## AppIcon
 
-![AppIcon](https://github.com/nimzco/sketch-templates-appicons-launchimages/raw/master/img/AppIcon.png "AppIcon")
+![Template AppIcon](https://github.com/nimzco/sketch-templates-appicons-launchimages/raw/master/img/Template_AppIcon.png "Template AppIcon")
+
+## LaunchImage
+
+![Template LaunchImage](https://github.com/nimzco/sketch-templates-appicons-launchimages/raw/master/img/Template_LaunchImage.png "Template LaunchImage")
 
 ## TODO 
 
